@@ -16,7 +16,7 @@ Eu sou Paulo André, estudante/desenvolvedor de Engenharia de Software.
 - 🔗 [Outro projeto](link)
 
 ## 📚 Atualmente aprendendo
-- React e Node.JS
+- JavaScript e React
 
 ## 🎮 Curiosidades
 - Gosto de Animes e jogos
