@@ -12,7 +12,7 @@ Eu sou Paulo André, estudante/desenvolvedor de Engenharia de Software.
 
 
 ## 📌 Projetos em destaque
-- 🔗 [Nome do projeto](link)
+- 🔗 Calculadora(https://github.com/PLzinnNx4/Calculadora-)
 - 🔗 [Outro projeto](link)
 
 ## 📚 Atualmente aprendendo
