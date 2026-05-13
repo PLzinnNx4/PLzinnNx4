@@ -13,7 +13,7 @@ Eu sou Paulo André, estudante/desenvolvedor de Engenharia de Software.
 
 ## 📌 Projetos em destaque
 - 🔗 Calculadora(https://github.com/PLzinnNx4/Calculadora-)
-- 🔗 Relógio Digital(https://github.com/PLzinnNx4/Relogio-Digital)
+- 🔗 SlideShow(https://github.com/PLzinnNx4/SlideShow)
 
 ## 📚 Atualmente aprendendo
 - JavaScript e React
